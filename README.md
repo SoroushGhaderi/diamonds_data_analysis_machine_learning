@@ -268,7 +268,6 @@ Apart from the main diameter of the matrix. we see that the rest of the matrix i
 
 ### Writers 
 
-* [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
-
 * [Bahram Jannesar](https://github.com/BahramJannesar) ( :pencil2: )
 
+* [Soursh Ghaderi](https://github.com/SoroushGhaderi) ( :pencil2: )
